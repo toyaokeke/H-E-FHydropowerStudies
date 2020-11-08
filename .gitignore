@@ -7,6 +7,7 @@ bin/
 build/
 # Executable
 hef-hydropower-studies
+flow_saved.txt
 
 ##########################
 # CMake template
